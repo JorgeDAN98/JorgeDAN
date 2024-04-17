@@ -1,0 +1,31 @@
+h1 {font-size: 60px;
+    text-align: center;
+    color: rgb(1, 48, 23);
+    background-color: rgb(205, 227, 220);
+    margin: 50px;
+    border: solid 7px green;
+    border-radius: 45px;
+}
+
+h2 {font-size: 45px;
+    color: rgb(19, 66, 51);
+    border: solid 4px green;
+    border-radius: 12px;
+    padding-left: 15px;
+}
+
+body {background-color: aliceblue;
+
+}
+
+button {color: rgb(15, 77, 60);
+    background-color: beige;
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+    border: solid 4px green;
+    margin: 5px 10px 5px 10px;
+    width: 130px;
+    height: 54px;
+
+}
